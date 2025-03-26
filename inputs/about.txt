@@ -1,0 +1,8 @@
+Desafio - Criando um Chatbot Baseado em Conteúdo de PDFs 
+
+O objetivo deste projeto é permitir que você:
+
+Carregue arquivos PDF contendo informações relevantes para seu estudo ou projeto.
+Implemente um sistema de busca vetorial para indexar e recuperar informações dos PDFs.
+Utilize inteligência artificial para gerar respostas baseadas no conteúdo dos documentos carregados.
+Desenvolva um chat interativo onde seja possível realizar perguntas e obter respostas contextuais fundamentadas nos arquivos.
